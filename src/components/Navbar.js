@@ -112,7 +112,7 @@ function Navbar() {
               variant="ghost"
             >
               <Twitter height={16} />
-              Twitter
+              <Link href="https://twitter.com/SarojRanjan02">Twitter</Link>
             </Button>
           </li>
           <li>
@@ -131,7 +131,7 @@ function Navbar() {
               variant="ghost"
             >
               <Github height={16} />
-              Github
+              <Link href="https://github.com/SarojKumarRanjan">Github</Link>
             </Button>
           </li>
         </ul>
