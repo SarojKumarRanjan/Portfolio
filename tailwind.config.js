@@ -18,6 +18,7 @@ module.exports = {
     },
     extend: {
       colors: {
+        
         bgprimary:  "rgb (245 245 245)",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
